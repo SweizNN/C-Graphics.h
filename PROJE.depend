@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699178918 source:c:\users\yigit\onedrive\masaüstü\proje\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+
